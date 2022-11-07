@@ -1,1 +1,5 @@
 .idea
+*.png
+*.mp3
+bin
+obj
